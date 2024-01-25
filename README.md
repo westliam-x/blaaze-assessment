@@ -5,38 +5,38 @@ A todo app made purely with laravel
 Laravel Todo App
 This is a simple Todo application built entirely using Laravel framework. The application provides basic functionalities to manage your daily tasks efficiently.
 
-Features
-A basic CRUD APPLICATION
-Create, Read, Update, and Delete tasks.
-Mark tasks as completed.
-User-friendly interface.
+Feature
+- A basic CRUD APPLICATION
+- Create, Read, Update, and Delete tasks.
+- Mark tasks as completed.
+- User-friendly interface.
 
-Setup
-To run this application locally, follow these steps:
+- Setup
+- To run this application locally, follow these steps:
 
-git clone this repo
+- git clone this repo
 
-Navigate to the project directory and install the required dependencies using Composer:
-composer install
+- Navigate to the project directory and install the required dependencies using Composer:
+- composer install
 
-Database Setup:
-Run the migrations to set up the database schema:
-php artisan migrate
+- Database Setup:
+- Run the migrations to set up the database schema:
+- php artisan migrate
 
-Start the Development Server:
-You can use Laravel's built-in server to run the application:
-php artisan serve
-By default, the application will be accessible at http://localhost:8000.
+- Start the Development Server:
+- You can use Laravel's built-in server to run the application:
+- php artisan serve
+- By default, the application will be accessible at http://localhost:8000.
 
-Styling
-This application is styled using Bootstrap framework, providing a clean and responsive design for seamless user experience across different devices.
+- Styling
+- This application is styled using Bootstrap framework, providing a clean and responsive design for seamless user experience across different devices.
 
-Usage
-Navigate to the application URL in your web browser.
-You will be greeted with some texts where you can click a link to take you into the app 
-Create new tasks by clicking on the "Add Task" button and filling out the form with task title and task message.
-View, update, or delete existing tasks from the list of tasks below the form.
-Mark tasks as completed by going to the update form and using the dropdown.
+- Usage
+- Navigate to the application URL in your web browser.
+- You will be greeted with some texts where you can click a link to take you into the app 
+- Create new tasks by clicking on the "Add Task" button and filling out the form with task title and task message.
+- View, update, or delete existing tasks from the list of tasks below the form.
+- Mark tasks as completed by going to the update form and using the dropdown.
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
