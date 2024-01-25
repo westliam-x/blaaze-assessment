@@ -1,37 +1,36 @@
-# blaaze-assessment
+### blaaze-assessment
 A todo app made purely with laravel
 
 
-Laravel Todo App
+# Laravel Todo App
 This is a simple Todo application built entirely using Laravel framework. The application provides basic functionalities to manage your daily tasks efficiently.
 
-Feature
+# Feature
 - A basic CRUD APPLICATION
 - Create, Read, Update, and Delete tasks.
 - Mark tasks as completed.
 - User-friendly interface.
 
-- Setup
+# Setup
 - To run this application locally, follow these steps:
-
-- git clone this repo
+git clone this repo
 
 - Navigate to the project directory and install the required dependencies using Composer:
-- composer install
+composer install
 
 - Database Setup:
-- Run the migrations to set up the database schema:
-- php artisan migrate
+Run the migrations to set up the database schema:
+php artisan migrate
 
 - Start the Development Server:
-- You can use Laravel's built-in server to run the application:
-- php artisan serve
-- By default, the application will be accessible at http://localhost:8000.
+You can use Laravel's built-in server to run the application:
+php artisan serve
+By default, the application will be accessible at http://localhost:8000.
 
-- Styling
-- This application is styled using Bootstrap framework, providing a clean and responsive design for seamless user experience across different devices.
+# Styling
+This application is styled using Bootstrap framework, providing a clean and responsive design for seamless user experience across different devices.
 
-- Usage
+#Usage
 - Navigate to the application URL in your web browser.
 - You will be greeted with some texts where you can click a link to take you into the app 
 - Create new tasks by clicking on the "Add Task" button and filling out the form with task title and task message.
